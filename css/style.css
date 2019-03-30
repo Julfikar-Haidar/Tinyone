@@ -1,0 +1,182 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: #555555;
+}
+/*header start*/
+header{
+	background-color: #fcdb00;
+	padding: 20px 0;
+}
+.menu{}
+.menu ul li a{
+	padding: 0 35px !important;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 20px;
+	transition: 0.5s;
+	display:inline-block;
+}
+.menu ul li a:hover{
+	color: #ffffff!important;
+}
+.slider{
+	background-color: #fcdb00;
+	padding-top: 10px;
+	padding-bottom: 50px;
+
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-color: #fcdb00;
+	padding-top: 10px;
+	padding-bottom: 80px;
+
+}
+.inspiration {
+	/*padding: 25px;*/
+	margin-top: 40px;
+
+}
+.c_indi{
+	bottom: -70px;
+}
+.c_indi li{
+	width: 15px;
+	border-radius: 50%;
+	height: 15px;
+}
+.inspiration h1{
+	font-size: 32px;
+	color: #010101;
+	margin-bottom: 20px;
+	line-height: 18px;
+}
+.inspiration h2{
+	font-size: 20px;
+	line-height: 24px;
+	color: #313841;
+	margin-bottom: 20px;
+}
+.inspiration p{
+	font-size: 16px;
+	line-height: 20px;
+	color: #313841;
+	margin-bottom: 35px;
+}
+.inspiration i{
+	font-size: 42px;
+	line-height: 20px;
+	color: #010101;
+	margin-right: 25px;
+	transition: 0.5s;
+}
+.inspiration i:hover{
+	color: #ffffff;
+}
+.img_slider{
+	margin-top: 10px;
+}
+
+/*slider End*/
+
+/*service start*/
+.service{
+	padding-top: 100px;
+	padding-bottom: 115px;
+}
+.title{}
+.title h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+	line-height: 32px;
+}
+.title p{
+	font-size: 20px;
+	color: #313841;
+	line-height: 24px;
+	padding: 0 58px;
+	margin-bottom: 90px;
+}
+.img_icon i{
+	font-size: 50px;
+	color: #010101;
+	transition: 0.5s;
+}
+.img_icon i:hover{
+	color: #fcdb00;
+}
+.single_item{
+	margin-bottom: 90px;
+}
+.single_content{}
+.single_content h1{
+	font-size: 22px;
+	line-height: 24px;
+	color: #010101;
+	transition: 0.5s;
+}
+.single_content p{
+	color: #898989;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: 1px;
+}
+.single_content h1:hover{
+	color: #fcdb00;
+}
+/*service End*/
+/*contact start*/
+.contact{
+	background-color: #010101;
+	padding: 100px 0;
+}
+.hover_btn{
+	font-size: 15px;
+	font-weight: 700;
+	transition: 0.5s;
+}
+.hover_btn:hover{
+	color: #ffffff;
+	background-color: #FCDB00;
+	border-color: #FCDB00;
+}
+.yellow{
+	color: #fcdb00 !important;
+}
+.ash{
+	color: #898989 !important;
+}
+.p_l_0{
+	padding-left: 0;
+}
+.link{
+	padding-top: 50px;
+}
+.link a{
+	color: #fcdb00 !important; 
+	transition: 0.5s;
+}
+.link ul li a:hover{
+color: #ffffff!important;
+}
+.size{
+	font-size: 42px;
+}
+/*contact End*/
+/*footer start*/
+footer{
+	background-color: #010101;
+	padding-bottom: 70px;
+}
+address{
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 20px;
+}
+.f_content a{
+	color: #ffffff;
+}
+/*footer end*/
